@@ -1,7 +1,7 @@
 const cacheName = "DefaultCompany-johntendo-0.1";
 const contentToCache = [
     "Build/Builds.loader.js",
-    "Build/Builds.framework.js.gz",
+    "Build/builds.framework.js",
     "Build/Builds.data.gz",
     "Build/Builds.wasm.gz",
     "TemplateData/style.css"
